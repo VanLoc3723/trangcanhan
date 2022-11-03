@@ -52,3 +52,25 @@
       <!-- end-tasbar -->
 </body>
 </html>
+
+.start-taskbar{
+    background-color: black;
+}
+.logo
+{
+    display: flex;
+}
+.timkiem
+{
+    margin: 0;
+    margin-top: -30px;
+    margin-left: 50px;
+    
+}
+.khung
+{
+    font-size: 70%;
+    border-radius: 50px;
+    padding: 10px;
+    margin-top: -5px;
+}
